@@ -3,7 +3,7 @@
 #### With This Python Script, You Can Paint The Image That You Want In Paint 3D / Paint Software With a little Tolerance.
 
 
-## usage guide:
+## Usage Guide:
 
  1. First When You Run Program You will see a message box with text input.  Fill it With Target Image Path:
  
