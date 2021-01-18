@@ -24,7 +24,8 @@
  5. Now Program Has Been Started. Just See It to be Complete And Enjoy :gem:
 
  - all Important Things Will Log Into your Python Executor So Don't Worry about that.
-	
+ - Quality of the Project depends on the: Drawing Thickness, Marker Type and Your Device Processor. 
+ - To Reduce Unwanted Action or Clicking From Program Make Sure That You Opened Painting Software.
 
 > I Recommend that if you have access to Paint 3D Software, use it as a painter instead of Paint for a variety of reasons, such as : 
 >
