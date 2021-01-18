@@ -9,7 +9,7 @@
  
 ![Step_1](https://user-images.githubusercontent.com/57534247/104936215-73b90e80-59c1-11eb-8e00-3db86bfaa4ff.png)
  
- 2. After That You Should Select Your Painting Software By Fill its Number or Writing Its Name:
+ 2. After That You Should Select Your Painting Software By Filling its Number or Writing Its Name:
  
 ![Step_2](https://user-images.githubusercontent.com/57534247/104937596-3190cc80-59c3-11eb-8134-0af8b9ada51b.png)
  
