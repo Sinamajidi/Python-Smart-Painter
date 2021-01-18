@@ -1,6 +1,6 @@
 ![Python Smart Painter](https://user-images.githubusercontent.com/57534247/104933149-c98bb780-59bd-11eb-98a2-537792e4509d.png)
 # :art: Python Smart Painter
-#### With This Python Script, You Can Paint The Image That You Want In Paint 3D / Paint Software With a little Tolerance.
+#### With This Python Script, You Can Paint The Image That You Want In Paint 3D / Paint Software With a little Telorance.
 
 
 ## Usage Guide:
