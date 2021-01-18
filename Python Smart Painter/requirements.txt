@@ -1,6 +1,5 @@
 PyAutoGUI
 Pillow
-time 
 random 
 keyboard
 sys 
