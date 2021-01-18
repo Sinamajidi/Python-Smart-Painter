@@ -36,4 +36,4 @@
 > etc.
 
  
-> For Better Response (Like Keyboard Interrupt) I Recommend you to use Terminal or Command Prompt (CMD) as Python Executor instead of Powershell or IDE Shell.
+> For Better Response (to ensure Keyboard Interrupt is activated) I Highly Recommend you to use Terminal or Command Prompt (CMD) as Python Executor instead of Powershell or IDE Shell.
