@@ -1,10 +1,8 @@
-
 # Used Libraries Import Section:
 import pyautogui
 from PIL import Image
-from time import sleep
 from random import randrange
-import keyboard
+from keyboard import is_pressed
 from sys import platform
 from os import path, system
 
