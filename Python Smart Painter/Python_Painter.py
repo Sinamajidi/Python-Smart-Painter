@@ -230,13 +230,13 @@ while True:
                                                 exit()
 
                                         # Exit with Pressing "q":
-                                        if keyboard.is_pressed("q"):
+                                        if is_pressed("q"):
                                             print(
                                                 'Keyboard interrupt: Pressed "q"')
                                             exit()
 
                                         # Exit with Pressing "p":
-                                        if keyboard.is_pressed("p"):
+                                        if is_pressed("p"):
                                             print(
                                                 'Keyboard interrupt: Pressed "p"')
                                             exit()
@@ -378,13 +378,13 @@ while True:
                                                 exit()
 
                                         # Exit with Pressing "q":
-                                        if keyboard.is_pressed("q"):
+                                        if is_pressed("q"):
                                             print(
                                                 'Keyboard interrupt: Pressed "q"')
                                             exit()
 
                                         # Exit with Pressing "p":
-                                        if keyboard.is_pressed("p"):
+                                        if is_pressed("p"):
                                             print(
                                                 'Keyboard interrupt: Pressed "p"')
                                             exit()
