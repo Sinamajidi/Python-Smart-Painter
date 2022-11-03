@@ -27,6 +27,10 @@
  - Quality of the Project depends on the: Drawing Thickness, Marker Type and Your Device Processor. 
  - To Reduce Unwanted Action or Clicking From Program Make Sure That You Opened Painting Software.
 
+
+> This Program has been ran on windows 10 21h1 and it's compatible with only Windows 10.
+
+
 > I Recommend that if you have access to Paint 3D Software, use it as a painter instead of Paint for a variety of reasons, such as : 
 >
 > 1 - In Paint 3D, the Program Has No Need to Fill R, G, B Inputs and It Can Easily Just Fill The Hex Input (saving time)
